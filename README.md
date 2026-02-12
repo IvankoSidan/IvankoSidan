@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 500;">
-  💻 Junior Android-разработчик | Создаю качественные мобильные приложения
+  💻 Android-разработчик | Создаю качественные мобильные приложения
 </h3>
 
 <p align="center">
@@ -32,10 +32,8 @@
 <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; line-height: 1.6;">
 
 Я <strong>Android-разработчик</strong>, создаю удобные и надёжные мобильные приложения с упором на UX и производительность.<br>
-Начал путь на третьем курсе университета, когда прошёл практику в локальной IT-компании и продолжил работу там после получения предложения —
-занимаюсь ui/ux дизайном приложений, оптимизацией кода и проектированием масштабируемых решений.
+Занимаюсь ui/ux дизайном приложений, оптимизацией кода и проектированием масштабируемых решений.
 </p>
-
 
 - **💼 Опыт работы:** 1 год в коммерческой разработке  
 - **📚 Сейчас изучаю:** CI/CD и современные подходы к разработке  
@@ -62,13 +60,4 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></a>
-</p>
-
----
-
-## 📊 Моя статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivankosidan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivankosidan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
 </p>
